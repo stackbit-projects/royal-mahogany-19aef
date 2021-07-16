@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Baby Orion: Behind The Application'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      The development application's source code can be found in the
+      \[development Github Enterprise
+      repository]\(https://github.platforms.engineering/fst-apc-engineering/baby-orion-dev).
+      The following chapters will walk through the core queries and how to
+      integrate them into the Django (or any type of) web application.
   - section_id: about
     type: section_content
     title: About
