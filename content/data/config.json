@@ -12,7 +12,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Preface",
+                "label": "Sidebar",
                 "url": "/",
                 "style": "link"
             },
