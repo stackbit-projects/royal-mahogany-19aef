@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Sidebar",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "Treatment",
                 "url": "/style-guide/",
                 "style": "link"
