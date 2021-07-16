@@ -15,10 +15,7 @@ sections:
     type: section_content
     title: About
     content: "[Baby Orion](https://fst-baby-orion.agro.services/)\_is a Django web application being developed by\_***FST APC Engineering’s Prototype and Tooling***\_team for the purpose of facilitating the analysis and reporting of Registration trials. The application consumes from the Postgres instance of\_***FST APC Engineering Data Systems***\_team’s ‘SCOUT Internal’ database. This database is synced with the SCOUT WLD server once per day.\n\n\n\nThe\_[development dashboard](https://fst-baby-orion-dev.agro.services/)\_is an Rshiny web application developed for the purpose of validating the database queries needed for the production application. The queries employed in Baby Orion are quite complex. Thus, this bookdown seeks to create transparency about the generation and use of the queries employed in the web application.\n"
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
