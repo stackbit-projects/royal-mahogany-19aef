@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: 'Baby Orion: Behind The Application'
 seo:
   title: Blog
   description: This is the blog page
